@@ -10,6 +10,8 @@ project:
     - file: sheep.md
 site:
   template: book-theme
+  options:
+    logo_text: "Sheep"
   nav:
     - title: Home
       url: https://claireyon.github.io/sheep/
