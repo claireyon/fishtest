@@ -7,7 +7,7 @@ project:
   toc:
     - file: README.md
     - file: 01-paper.md
-    - file: sheep.html
+    - file: sheep.md
 site:
   template: book-theme
   nav:
