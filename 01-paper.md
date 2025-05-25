@@ -6,14 +6,12 @@ short_title: Hii
 authors:
   - name: Claire Wang
     affiliations:
-      - A random school
-      - Hi
     orcid: 0000-0002-7859-8394
-    email: rowan@curvenote.com
+    email: mianyangyangyangyang@gmail.com
 license: CC-BY-4.0
-keywords: myst, markdown, open-science
+keywords: sheep, sheep farming
 abstract: |
-  We introduce, a set of open-source, community-driven tools for MyST Markdown ([myst.tools](https://myst.tools)) designed for scientific communication, including a powerful authoring framework that supports blogs, online books, scientific papers, reports and journals articles.
+  We introduce the varying benefits of high-yield, for-profit, novelty sheep farming.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -25,6 +23,7 @@ exports:
 ---
 
 # Profile
+hi idk what to put here
 ## Background
 
 Sheep farming is, I believe, a dying art. Of all the thousands of sheep existing throughout the world, perhaps only one or two remain influential in mainstream media, leaving the rest of these animals thoroughly stuck in the shadows. On a 2 am caffiene induced rampage, I will be discussing the merits of novel sheep farming and its implications on the global economy.
