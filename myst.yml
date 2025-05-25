@@ -7,7 +7,6 @@ project:
   toc:
     - file: README.md
     - file: 01-paper.md
-    - file: 02-notebook.ipynb
 
 site:
   template: book-theme
