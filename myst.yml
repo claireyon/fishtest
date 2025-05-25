@@ -3,7 +3,7 @@ project:
   title: Claires Site
   subtitle: GIS Programming
   jupyter: true
-  github: https://github.com/claireyon/fishtest
+  github: https://github.com/claireyon/sheep
   toc:
     - file: README.md
     - file: 01-paper.md
@@ -12,4 +12,4 @@ site:
   template: book-theme
   nav:
     - title: Home
-      url: https://claireyon.github.io/fishtest/
+      url: https://claireyon.github.io/sheep/
