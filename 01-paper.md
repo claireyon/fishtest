@@ -2,7 +2,7 @@
 title: Sheep
 subject: Tutorial
 subtitle: Types of Sheep
-short_title: Hii
+short_title: Introduction to the Benefits of Varying Types of Sheep
 authors:
   - name: Claire Wang
     affiliations:
